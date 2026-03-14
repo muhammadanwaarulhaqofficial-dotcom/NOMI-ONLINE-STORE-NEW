@@ -1,0 +1,7 @@
+{
+  "name": "Nomi Online Store",
+  "description": "A luxury, high-converting ecommerce website for Nomi Online Store, featuring premium products and trusted service in Mansehra, Pakistan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
